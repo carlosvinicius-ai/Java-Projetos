@@ -6,4 +6,4 @@ Repositório criado para compartilhar desafios e projetos feitos utilizando a li
 
 ## PROJETOS
 
-- [DIO - Exercícios:]()
+- [DIO - Exercícios:](https://github.com/carlosvinicius-ai/Java-Projetos/tree/master/exercicios_DIO)
