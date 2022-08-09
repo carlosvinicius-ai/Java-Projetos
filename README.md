@@ -7,3 +7,4 @@ Repositório criado para compartilhar desafios e projetos feitos utilizando a li
 ## PROJETOS
 
 - [DIO - Exercícios:](https://github.com/carlosvinicius-ai/Java-Projetos/tree/master/exercicios_DIO)
+- [Alura - Curso:](https://github.com/carlosvinicius-ai/Java-Projetos/tree/master/Alura)
