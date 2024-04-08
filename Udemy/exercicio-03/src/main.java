@@ -19,6 +19,8 @@ public class main {
         difereca = (a*b) - (c*d);
 
         System.out.printf("A diferença é de %d", difereca);
+
+        sc.close();
     }
 
 }

@@ -23,5 +23,7 @@ public class Main {
         valorFinal = (double) (num1 * valor1) + (double) (num2 * valor2);
 
         System.out.printf("VALOR A PAGAR: R$%.2f", valorFinal);
+
+        sc.close();
     }
 }

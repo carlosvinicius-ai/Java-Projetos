@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Udemy.iml" filepath="$PROJECT_DIR$/.idea/Udemy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio-02/circulo.iml" filepath="$PROJECT_DIR$/exercicio-02/circulo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio-03/diferenca.iml" filepath="$PROJECT_DIR$/exercicio-03/diferenca.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio-04/exercicio-04.iml" filepath="$PROJECT_DIR$/exercicio-04/exercicio-04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio-05/exercicio-05.iml" filepath="$PROJECT_DIR$/exercicio-05/exercicio-05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio-06/exercicio-06.iml" filepath="$PROJECT_DIR$/exercicio-06/exercicio-06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio-01/soma.iml" filepath="$PROJECT_DIR$/exercicio-01/soma.iml" />
+    </modules>
+  </component>
+</project>

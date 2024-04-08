@@ -20,5 +20,7 @@ public class main {
         salary = (double) hourWork * hourSalary;
 
         System.out.printf("O usuário de número %d tem o salário de $%.2f", number, salary);
+
+        sc.close();
     }
 }
